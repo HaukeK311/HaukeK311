@@ -10,7 +10,7 @@ Somewhere between genomes, GPUs and a tiling window manager is where I feel at h
 ---
 
 <p align="center">
-  <img src="phage.gif" width="280" alt="Pixel art bacteriophage">
+  <img src="phage-art.gif" width="280" alt="Pixel art bacteriophage">
   <br>
   <sub>Art by <a href="https://www.pixilart.com/art/bacteriophage-sr290140e86d9aws3">D69NIuUXPPozksi on Pixilart</a></sub>
 </p>
