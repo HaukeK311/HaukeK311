@@ -24,10 +24,6 @@ Somewhere between genomes, GPUs and a tiling window manager is where I feel at h
 </p>
 
 <p align="center">
-🦀 <i>Learning Rust on the side</i>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white">
